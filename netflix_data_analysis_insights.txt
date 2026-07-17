@@ -1,0 +1,18 @@
+Key Findings
+Content Type Distribution: In the Netflix library, movies are the dominant entertainment type, accounting for approximately 70% of frequently viewed content, while TV series make up the remaining 30%.
+
+Viewership Trends (2008–2021): Movie viewership grew gradually starting in 2015, with a massive spike beginning in 2016. Engagement peaked in 2019 before experiencing a decline throughout 2020 and 2021.
+
+TV Show Trends: TV show viewership peaked during 2019 and 2020, followed by a noticeable decline in 2021.
+
+Top Genres: The most popular genres on the platform, ranked in descending order, are international movies, dramas, comedies, international TV shows, and documentaries.
+
+Movie Duration: The average runtime for movies falls between 80 and 120 minutes (approximately 1 hour and 20 minutes to 2 hours). (Note: I corrected your hour math here, as 120 minutes is exactly 2 hours, not 2 hours 20 minutes).
+
+TV Show Longevity: The majority of TV shows on the platform only have one season, followed by a steep drop-off for seasons 2, 3, and 4. This heavy concentration of single-season shows indicates that Netflix may be strategically focusing on limited series.
+
+Top Content Contributors: The United States is the largest content provider with 4,509 titles, followed by India (1,046 titles) and Canada (803 titles). Together, these three nations make up the top content-producing markets on the platform.
+
+Target Audience: Netflix content is heavily geared toward mature audiences, with the majority of the library tailored for viewers aged 15 to 18 and older.
+
+Runtime Outliers: The "Dramas" and "International Movies" genres feature significant runtime outliers, indicating the presence of several exceptionally long films.
